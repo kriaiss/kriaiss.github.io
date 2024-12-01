@@ -4,6 +4,7 @@ body {
     background-color: #0A182F;
     font-family: "Alumni Sans", sans-serif;
     font-weight: 300;
+    scroll-behavior: smooth;
 }
 html {
     scroll-behavior: smooth;
