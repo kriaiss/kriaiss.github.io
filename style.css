@@ -1,10 +1,9 @@
 body {
     padding-right: 10%;
     padding-left: 10%;
-    background-color: #000000;
+    background-color: #0A182F;
     font-family: "Alumni Sans", sans-serif;
     font-weight: 300;
-    scroll-behavior: smooth;
 }
 html {
     scroll-behavior: smooth;
@@ -22,16 +21,16 @@ header {
     font-size: 32px;
     height: 50px;
     margin-top: 20px;
-    background-color: #14213d;
+    background-color: #122045;
     border-radius: 5px;
     position: fixed;
     width: 80%;
-    box-shadow: 0px 5px 50px #000000;
+    box-shadow: 0px 5px 50px #0A182F ;
 }
 a {
     text-decoration: none;
     color: white;
-    background-color: #14213d;
+    background-color: #152D52;
     padding-left: 10px;
     padding-right: 10px;
     padding-bottom: 10px;
